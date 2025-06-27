@@ -82,11 +82,11 @@ jupyter notebook visualizacao.ipynb
 
 Script|Função
 -------------------------------------------------------------------------------------------
-etl.py -> Extrai dados da API, trata e salva nas camadas Bronze, Silver e Gold
+- etl.py -> Extrai dados da API, trata e salva nas camadas Bronze, Silver e Gold
 
-consultas_duckdb.py	-> Executa consultas SQL diretamente sobre arquivos Parquet
+- consultas_duckdb.py	-> Executa consultas SQL diretamente sobre arquivos Parquet
 
-visualizacao.ipynb	-> Gera gráficos e análises visuais
+- visualizacao.ipynb	-> Gera gráficos e análises visuais
 
 ---
 
