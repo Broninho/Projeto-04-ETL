@@ -7,16 +7,16 @@ Este projeto faz ETL de dados de gastos de deputados, cria camadas Bronze, Silve
 ## ✅ **Estrutura do Projeto**
 
 projeto4_etl/
-├── data/
-│   ├── bronze/                        # Dados brutos
-│   ├── silver/                        # Dados tratados
-│   └── gold/                          # Dados agregados
-├── etl.py                             # Script ETL completo
-├── consultas_duckdb.py                # Consultas analíticas
-├── visualizacao.ipynb                 # Notebook para gráficos
-├── requirements.txt                   # Dependências do projeto
-├── README.md                          # Explicação do projeto
-└── .env                               # Token da API 
+-├── data/
+-│   ├── bronze/                        # Dados brutos
+-│   ├── silver/                        # Dados tratados
+-│   └── gold/                          # Dados agregados
+-├── etl.py                             # Script ETL completo
+-├── consultas_duckdb.py                # Consultas analíticas
+-├── visualizacao.ipynb                 # Notebook para gráficos
+-├── requirements.txt                   # Dependências do projeto
+-├── README.md                          # Explicação do projeto
+-└── .env                               # Token da API 
 
 ---
 
