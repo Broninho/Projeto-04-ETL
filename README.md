@@ -92,17 +92,17 @@ Script|Função
 
 🧪 Consultas implementadas
 
--✅ Top 10 parlamentares que mais gastaram
--✅ Categorias com maiores gastos por partido
--✅ Evolução mensal dos gastos
--✅ Top 10 fornecedores que mais receberam
--✅ Comparativo de gastos entre partidos
+- ✅ Top 10 parlamentares que mais gastaram
+- ✅ Categorias com maiores gastos por partido
+- ✅ Evolução mensal dos gastos
+- ✅ Top 10 fornecedores que mais receberam
+- ✅ Comparativo de gastos entre partidos
 
 ---
 
 📊 Exemplos de visualizações
 
--Evolução mensal dos gastos parlamentares (gráfico de linha)
--Top 10 parlamentares que mais gastaram (gráfico de barras)
--Top fornecedores por valor recebido
--Distribuição de gastos por tipo de despesa
+- Evolução mensal dos gastos parlamentares (gráfico de linha)
+- Top 10 parlamentares que mais gastaram (gráfico de barras)
+- Top fornecedores por valor recebido
+- Distribuição de gastos por tipo de despesa
