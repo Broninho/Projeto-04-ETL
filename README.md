@@ -106,3 +106,7 @@ Script|Função
 - Top 10 parlamentares que mais gastaram (gráfico de barras)
 - Top fornecedores por valor recebido
 - Distribuição de gastos por tipo de despesa
+
+---
+
+Link do video postado no youtube: https://youtu.be/ntXsNAfBQWk
